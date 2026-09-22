@@ -343,7 +343,7 @@ Additional project documentation is available in:
 
 `04-Documentation/`
 
-This includes the project overview and lab architecture documentation.
+This includes the project overview and lab architecture documentation..
 
 ---
 
