@@ -1,0 +1,6 @@
+"Timestamp","Username","Action","Status","Details"
+"2026-09-21 22:04:15","aarav.sharma","Onboarding","SKIPPED","User already exists"
+"2026-09-21 22:04:16","sara.khan","Onboarding","SKIPPED","User already exists"
+"2026-09-21 22:07:32","aarav.sharma","Onboarding","SKIPPED","User already exists"
+"2026-09-21 22:07:32","sara.khan","Onboarding","SKIPPED","User already exists"
+"2026-09-21 22:07:32","omar.ali","Onboarding","SUCCESS","User created and groups assigned"
